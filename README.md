@@ -1,5 +1,4 @@
 # TODO-LIST
-# Todo List Web Application
 
 This is a simple Todo List web application built with HTML, CSS, and JavaScript. It allows users to create, update, and delete tasks in a todo list. Users can also log in and sign up to save their tasks across sessions.
 
