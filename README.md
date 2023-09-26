@@ -30,13 +30,8 @@ To get started with this Todo List application, follow these steps:
 
 ## Customization
 You can customize this Todo List application to fit your needs by making changes to the code:
-
 - *Styling:* Modify the CSS in the `styles.css` file to change the look and feel of the application.
-
 - *Authentication Logic:* Replace the simulated authentication logic in the `login` function with your own authentication logic if needed.
-
 - *User Data Storage:* Currently, user data and tasks are stored in local storage. You can replace this with a server-based backend if you want to store data on a server.
-
 - *UI and Functionality:* Customize the HTML structure and JavaScript code to add more features or change the user interface.
-
 Feel free to adapt this code to your specific requirements and make it your own.
